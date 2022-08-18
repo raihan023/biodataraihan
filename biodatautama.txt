@@ -4,3 +4,4 @@ Alamat : Jl.Soekarno Hatta, Gg.Elos Barat, RT04/RW05, Kec Babakan Ciparay, Kota 
 Jenis Kelamin : Laki Laki
 Tempat & Tanggal Lahir : Bandung, 31 Maret 2005
 Hobi : Mendengarkan Musik, Coding, Futsal, Diskusi, Mencari Hal Hal Baru
+cita cita : developer blockchain
