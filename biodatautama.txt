@@ -5,9 +5,9 @@ Jenis Kelamin : Laki Laki
 Tempat & Tanggal Lahir : Bandung, 31 Maret 2005
 Hobi : Mendengarkan Musik, Coding, Futsal, Diskusi, Mencari Hal Hal Baru
 cita cita : developer blockchain
-riwayat pendidikan :
+riwayat pendidikan : 
 TK Tunas Prestasi
-Sekolah dasar Negeri 245 SumberSari Indah Bandung
-Sekolah menengah Pertama 9 Bandung
-Sekolah menengah kejuruan prakarya internasional
-customer service binance
+SDN 245 SUMBERSARI INDAH BANDUNG
+SMP NEGERI 9 BANDUNG
+SMK PRAKARYA INTERNASIONAL
+CUSTOMER SERVICE BINANCE
